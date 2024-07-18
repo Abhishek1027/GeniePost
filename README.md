@@ -94,17 +94,7 @@ GeniePost is a web-based email application developed using the MERN stack (Mongo
 - **Real-Time Updates**: Notifications for new messages.
 - **Draft Emails**: Use the AI features to draft and suggest responses.
 
-## Contributing
 
-Feel free to contribute to GeniePost by submitting issues or pull requests. Please follow the coding standards and include tests for new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
 
 ## Acknowledgments
 
