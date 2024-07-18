@@ -1,3 +1,6 @@
+![GeniePost](https://github.com/user-attachments/assets/1cd2ed11-cc8d-4b9c-b919-2254e19be33c)
+
+
 # GeniePost
 
 GeniePost is a web-based email application developed using the MERN stack (MongoDB, Express.js, React, Node.js). It features a user-friendly interface with essential email management capabilities and advanced functionalities like automated email drafting and response suggestions powered by Gemini's Large Language Model (LLM).
